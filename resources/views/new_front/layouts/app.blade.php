@@ -51,6 +51,16 @@
 
         gtag('config', 'AW-11545691095');
     </script>
+
+    <!-- Event snippet for Kunjungan halaman conversion page -->
+    <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-11545691095/WXekCMfs6YEaENeHtYEr',
+            'value': 1.0,
+            'currency': 'IDR'
+        });
+    </script>
+
 </head>
 
 <body>
